@@ -1,2 +1,2 @@
-# vimrc
-My vimrc
+# rc's
+My RC file collection
